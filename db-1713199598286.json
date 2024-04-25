@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "text": "Learn Java",
+      "day": "Sun 9th at 9:00pm",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Cook Meat",
+      "day": "Sun 9th at 9:00pm",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Learn Angular",
+      "day": "Sun 9th at 9:00pm",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Learn Angular",
+      "day": "Sun 9th at 9:00pm",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Learn Postgres",
+      "day": "Mon 22Jan 2024",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
